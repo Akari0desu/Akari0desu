@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akari0desu
-- 👀 I’m interested in learning about how to code and create an AI that could be sentient, or just make games, probably the ladder.
+- 👀 I’m interested in learning about how to code and create an AI that could be sentient, or just make games, probably the latter.
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
