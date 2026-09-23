@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Akari0desu
-- 👀 I’m interested in learning about how to code and create an AI that could be sentient, or just make games, probably the latter.
+- 👀 I’m interested in learning about how to make games. 
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me banhmanlai57@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love cycling and I used to go 20km everyday for my school.
 
 <!---
 Akari0desu/Akari0desu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
