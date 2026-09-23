@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me banhmanlai57@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cycling and I used to go 20km everyday for my school.
+- ⚡ Fun fact: I love cycling and I used to go 20km everyday to get to my school.
 
 <!---
 Akari0desu/Akari0desu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
